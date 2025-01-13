@@ -1,3 +1,6 @@
 /.vscode
 /Code - OSS
 /chromium
+clipse/clipse.log
+clipse/clipboard_history.json
+pulse/cookie
