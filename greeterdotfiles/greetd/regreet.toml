@@ -1,0 +1,15 @@
+[background]
+path = "/usr/share/backgrounds/output.png"
+fit = "Fill"
+
+[GTK]
+cursor_theme_name = "Bibata-Modern-Classic"
+font_name = "Overpass"
+application_prefer_dark_theme = true
+
+[commands]
+reboot = [ "systemctl", "reboot" ]
+poweroff = [ "systemctl", "poweroff" ]
+
+[appearance]
+greeting_msg = "Welcome Back!"
